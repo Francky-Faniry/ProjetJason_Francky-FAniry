@@ -1,0 +1,160 @@
+@charset "utf-8";
+body{
+	background-color:rgb(245,245,245);
+}
+#bloc_page{
+	background-color:rgb(245,245,245);
+	width:1000px;
+	margin:auto;
+}
+.loko{
+	color:rgb(139,131,134);
+}
+.menu{
+	position:absolute;
+	margin-top:15px;
+	margin-left:630px;
+}
+.nom{
+	margin-left:60px;
+	margin-top:25px;
+}
+nav{
+	margin-top:-55px;
+	display:inline-block;
+	margin-left:512px;
+	color:black;
+	background-color:rgb(245,245,245);
+}
+header img{
+	margin-left:630px;
+	margin-top:20px;
+}
+nav ul
+{
+    list-style-type: none;
+}
+nav li
+{
+    display: inline-block;
+    margin-right: 15px;
+	color:black;
+	list-style-type:none;
+}
+
+nav a{
+	color:black;	
+	text-decoration:none;
+}
+#banniere {
+	width:1000px;
+	
+}
+section{
+	background-color:rgb(245,245,245);
+}
+.help{
+	margin-top:-140px;
+	margin-left:550px;
+	font-size:15px;
+	color:#4F94CD;
+	position:absolute;
+	font-style:calibri;
+}
+.real{
+	margin-top:-250px;
+	margin-left:550px;
+	font-size:45px;
+	color:white;
+	position:absolute;
+	
+}
+.your{
+	width:230px;
+	margin-top:-205px;
+	margin-left:550px;
+	font-size:20px;
+	color:rgb(139,131,134);
+	position:absolute;
+	
+}
+ .tof{ 
+	width:1000px;
+	height:322px;
+	margin-left:0px;
+} 
+ .sar{ 
+	width:1000px;
+	margin-top:20px;
+	margin-left:-1000px;
+	position:absolute;
+ } 
+ section{
+	 background-color:rgb(245,245,245);
+	 height:400px;
+	 margin-top:20px;
+ }
+ .gauche{
+	 background-color:rgb(245,245,245);
+	 width:250px;
+	 height:350px;
+	 margin-left:20px;
+ }
+ .gauche a{
+	 color:#4F94CD;
+ }
+ .en_tete{
+	 font-size:20px;
+	 color:black;
+	 
+ }
+.sar1{margin-top:-3px;}
+.sar2{margin-top:5px;}
+.sar3{margin-top:5px;}
+.sar4{margin-top:5px;}
+.sar5{margin-top:5px;}
+.hh{
+	font-size:14px;
+	margin-left:28px;
+	margin-top:-10px;
+	color:rgb(139,131,134);
+}
+.droite{
+	background-color:rgb(245,245,245);
+	width:650px;
+	margin-left:330px;
+	
+	margin-top:-375px;
+	height:350px;
+}
+.titre{
+	font-size:25px;
+}
+.pp{
+	font-size:14px;
+	margin-top:-15px;
+}.pp2{font-size:14px;
+margin-top:25px;}
+.pp3{font-size:14px;
+margin-top:25px;}
+.anat{
+	line-height:25px;
+	margin-top:-5px;
+	font-size:14px;
+	color:rgb(139,131,134);
+}
+footer{
+	
+	background-color:black;
+	width:1000px;
+	height:80px;
+	color:white;
+	position:absolute;
+}
+
+.jas{
+	margin-top:20px;
+}
+.we{
+	margin-top:-15px;
+}
